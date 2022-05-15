@@ -1,0 +1,52 @@
+# UX DESIGN
+
+# Foundation of User Experience: Week 1 
+
+**Definition:** The user experience is how a person, the user, feels about interacting with or experiencing a product. A product can be; physical product, like a video game controller or a bag of potato chips, or a technology product, like an app, website, or smartwatch. For a user to have a good experience, the product needs to be usable, equitable, enjoyable, and useful
+
+Case study example: Historically, ketchup came in a glass bottle. The user had to hit the bottom of the glass to make ketchup come out. Often, no ketchup or too much ketchup would come out of the bottle. Today, the ketchup bottle has been redesigned into a plastic squeezable bottle, which makes it easier to use and allows users to control how much ketchup comes out
+
+## **UX careers:**
+
+**Interaction designer:** Interaction designers focus on designing the experience of a product and how it function
+
+**Visual designer:** Visual designers focus on how a product or technology looks
+
+**Motion designer:** Motion designers think about what it feels like for a user to move through a product and how to create smooth transitions between pages on an app or website
+
+**VR/AR designer:** Virtual reality (VR) and augmented reality (AR) designers create products that provide users with immersive experiences, unbounded by the limits of the physical world
+
+**UX researcher:** UX researchers conduct studies or interviews that examine how people use a product
+
+**UX writer:** UX writers think about how to make the language within a product clearer so that the user experience is more intuitive
+
+**UX program manager:** UX program managers ensure clear and timely communication, so that the process of building a useful product moves smoothly from start to finish
+
+**UX engineer:** UX engineers translate the design’s intent into a functioning experience, like an app or a website
+
+**Conversation designer:** Conversational interfaces are everywhere, from intelligent virtual assistants like Google Assistant and Siri, to interactive voice response systems like customer service systems you can talk to
+
+## **The product development life cycle:**
+
+Definition: The process used to take a product from an idea to reality 
+
+### **5 stages:**
+
+- **Brainstorm**: the team starts thinking of an idea for a product. Your team might already know the user problem that you want to solve when you begin the product development life cycle. If not, coming up with a list of user problems is a great place to start
+- **Define**: The goal is to figure out the specifications for the product by answering questions like: Who is the product for? What will the product do? And, what features need to be included for the product to be successful?
+- **Design:** UX designers develop the ideas for the product. Generally, UX designers start by drawing wireframes, ****
+which are outlines or sketches of the product, then move on to creating prototypes, which are early models of a product that convey its functionality
+- **Test:** The designs go through at least three phases of testing: internal tests within your company, reviews with stakeholders, and external tests with potential users
+- **Launch:**
+
+## Good user experience:
+
+Characteristics: **usable**, **equitable**, **enjoyable**, and **useful**
+
+**Usable:** It means the design, structure, and purpose of the product is clear and easy to use
+
+**Equitable: I**t means a design is helpful to people with diverse abilities and backgrounds
+
+**Enjoyable: I**t means the design delights the user
+
+**Useful:** that means it solves user problems
