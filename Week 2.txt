@@ -1,0 +1,29 @@
+**User-centered design** is defined as a framework that “puts the user front-and-center.”
+
+Your goal as a UX designer is to solve a user problem by creating a design that makes every user feel like you designed the experience just for them no matter who they are, where they live, how much they earn, what their abilities are, or how highly they're educated
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/107c887b-a18f-47d8-a9e9-f1d6d1eed155/Untitled.png)
+
+## Design Thinking framework
+
+UX designers use **Design Thinking** framework to organize their approach to designs, often based on the product they’re designing and the organization they’re working for
+
+The **Design Thinking** framework is a user-centered approach to problem-solving that includes activities like research, prototyping, and testing to help you understand who your user is, what their problems are, and what your design should include.
+
+Core principles:
+
+- Focus on the user.
+- Create solutions that address the user’s problems.
+- Collaborate with teammates across departments.
+- Validate your designs.
+- Iterate as needed to design the right user experience.
+
+![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/22867b30-e6bc-4981-80fe-249ec16a4c04/Untitled.png)
+
+**Empathize** phase is to learn more about the user and their problems, wants, and needs, and the environment or context in which they will experience your design
+
+**Define** phase is to analyze your research findings from the empathize phase and determine which user problems are the most important one to solve, and why. **Important**: Come up with a clear problem statement
+
+The goal of **ideate** is to come up with many design solutions as possible. Important: **Keep this process judgment-free**
+
+**Prototype & Test:** **Test your designs at each stage of prototype development** rather than waiting to test until after the working prototype is complete
